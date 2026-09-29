@@ -8,6 +8,10 @@ The project started with raw data and was taken through data preparation, data m
 
 My main focus was not only to create charts, but to understand what the data was showing and use the dashboard to answer practical business questions.
 
+## Dashboard Preview
+
+![Nova Retail Sales Overview](Screenshots/Sales%20Overview.png)
+
 ## Business questions
 
 The dashboard was created to explore questions such as:
